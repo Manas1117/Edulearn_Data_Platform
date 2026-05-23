@@ -1,4 +1,4 @@
-# edulearn-data-platform
+# Edulearn_Data_Platform
 
 **Name:** team2 
 **Batch:** aws
